@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arbind Mehta
 - 👀 I’m interested in Programming
-- 🌱 Currently, I’m CS Student at Tribhuvan University
 - 💞️ I’m looking for team to work with
 
 <hr>
