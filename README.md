@@ -4,7 +4,7 @@
 Desktop, Mobile, and Web application development specialist with more than four years of experience. I focus on maximum customer satisfaction by considering the requirements in every phase of the Software Development Life Cycle.
 
 - Developed nationally recognized award-winning projects
-- Expertise in Databases, Networking, Graphical User Interface, and Problem-solving
+- Expertise in Databases, Networking, Graphical User Interface, Artificial Intelligence, Data Science and Problem-solving
 - Good Communication, Leadership & Team Management skills
 - Product delivery before the deadline
 
