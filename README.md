@@ -3,14 +3,6 @@
 
 Desktop, Mobile, and Web application development specialist with more than four years of experience. I focus on maximum customer satisfaction by considering the requirements in every phase of the Software Development Life Cycle.
 
-## Skills
-- Python and its framework like Django, Odoo, Keras, TKinter, etc
-- C/C++
-- Flutter
-- HTML, CSS, and Bootstrap
-- JavaScript
-- PHP
-
 ## Highlights
 
 - Developed nationally recognized award-winning projects
@@ -18,6 +10,13 @@ Desktop, Mobile, and Web application development specialist with more than four 
 - Good Communication, Leadership & Team Management skills
 - Product delivery before the deadline
 
+## Skills
+- Python and its framework like Django, Odoo, Keras, TKinter, etc
+- C/C++
+- Flutter
+- HTML, CSS, and Bootstrap
+- JavaScript
+- PHP
 
 ## Social Links
 
