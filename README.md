@@ -11,7 +11,7 @@ Desktop, Mobile, and Web application development specialist with more than four 
 - Product delivery before the deadline
 
 ## Skills
-- Python and its framework like Django, Odoo, Keras, TKinter, etc
+- Python and its frameworks like Django, Odoo, Keras, TKinter, etc
 - C/C++
 - Flutter
 - HTML, CSS, and Bootstrap
@@ -24,6 +24,6 @@ Desktop, Mobile, and Web application development specialist with more than four 
 - [Upwork](https://www.upwork.com/freelancers/~01ee40c626c31537a9)
 - [Personal Website](https://arbindmehta.com.np/)
 - [LinkedIn](https://www.linkedin.com/in/arbind67/)
-- [Facebook](https://www.facebook.com/arbind.mehta.549/)
+- [Facebook](https://www.facebook.com/arbind15/)
 - [Instagram](https://www.instagram.com/mehtaarbind)
 - [Twitter](https://twitter.com/ArbindMehta11)
