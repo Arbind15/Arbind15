@@ -16,7 +16,6 @@ Desktop, Mobile, and Web application development specialist with more than four 
 - Flutter
 - HTML, CSS, and Bootstrap
 - JavaScript
-- PHP
 - Assembly Level Programming
 
 ## Social Links
