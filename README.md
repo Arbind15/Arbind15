@@ -1,4 +1,4 @@
-# ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Arbind15)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Arbind15)
 # Computer Engineer
 **Expert Software Developer | Desktop, Mobile & Web**
 
